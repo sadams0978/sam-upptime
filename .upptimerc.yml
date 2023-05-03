@@ -14,7 +14,7 @@ sites:
   - name: PEAKE CW Control
     url: https://help.peakesupport.com
   - name: PEAKE Voice
-    url: https://voice.peaketechnology.com/portal
+    url: https://voice.peaketechnology.com/portal/
   - name: Vector Data Systems
     url: https://vectordatasystems.com
   - name: PASM
