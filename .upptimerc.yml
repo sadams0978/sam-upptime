@@ -14,10 +14,10 @@ sites:
   - name: PEAKE CW Control
     url: https://help.peakesupport.com
   - name: PEAKE Voice
-    url: https://voice.peaketechnology.com/portal/
+    url: https://voice.peaketechnology.com
+    __dangerous__insecure: true
   - name: Vector Data Systems
     url: https://vectordatasystems.com
-    __dangerous__insecure: true
   - name: PASM
     check: "tcp-ping"
     url: pasm.peakesupport.com
