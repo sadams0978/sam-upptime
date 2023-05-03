@@ -10,7 +10,7 @@ sites:
   - name: PEAKE CW Manage
     url: https://cw.peakesupport.com
   - name: PEAKE CW Automate
-    url: https://lt.peakesupport.com
+    url: https://lt.peakesupport.com/automate
   - name: PEAKE CW Control
     url: https://help.peakesupport.com
   - name: PEAKE Voice
