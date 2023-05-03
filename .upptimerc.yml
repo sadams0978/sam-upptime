@@ -19,7 +19,7 @@ sites:
     url: https://vectordatasystems.com
   - name: PASM
     check: "tcp-ping"
-    url: https://pasm.peakesupport.com
+    url: pasm.peakesupport.com
     port: 81
     __dangerous__insecure: true
     
