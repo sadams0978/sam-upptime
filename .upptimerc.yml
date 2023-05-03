@@ -17,6 +17,7 @@ sites:
     url: https://voice.peaketechnology.com/portal/
   - name: Vector Data Systems
     url: https://vectordatasystems.com
+    __dangerous__insecure: true
   - name: PASM
     check: "tcp-ping"
     url: pasm.peakesupport.com
