@@ -76,9 +76,9 @@
     "url": "https://help.peakesupport.com",
     "icon": "https://icons.duckduckgo.com/ip3/help.peakesupport.com.ico",
     "slug": "peake-cw-control",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1215,
     "timeMonth": 1215,
     "timeYear": 1215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-07": 0
+    }
   },
   {
     "name": "PEAKE Voice",
@@ -95,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/voice.peaketechnology.com.ico",
     "slug": "peake-voice",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 317,
     "timeDay": 388,
     "timeWeek": 317,
