@@ -22,72 +22,80 @@
     "url": "https://sso.peaketechnology.com/adfs/ls/idpinitiatedsignon",
     "icon": "https://icons.duckduckgo.com/ip3/sso.peaketechnology.com.ico",
     "slug": "peake-sso",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 274,
     "timeDay": 256,
     "timeWeek": 274,
     "timeMonth": 274,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 3
+    }
   },
   {
     "name": "PEAKE CW Manage",
     "url": "https://cw.peakesupport.com",
     "icon": "https://icons.duckduckgo.com/ip3/cw.peakesupport.com.ico",
     "slug": "peake-cw-manage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 321,
     "timeDay": 312,
     "timeWeek": 321,
     "timeMonth": 321,
     "timeYear": 321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 3
+    }
   },
   {
     "name": "PEAKE CW Automate",
     "url": "https://lt.peakesupport.com/automate",
     "icon": "https://icons.duckduckgo.com/ip3/lt.peakesupport.com.ico",
     "slug": "peake-cw-automate",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 307,
     "timeDay": 324,
     "timeWeek": 307,
     "timeMonth": 307,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 2
+    }
   },
   {
     "name": "PEAKE CW Control",
     "url": "https://help.peakesupport.com",
     "icon": "https://icons.duckduckgo.com/ip3/help.peakesupport.com.ico",
     "slug": "peake-cw-control",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1357,
     "timeDay": 3342,
     "timeWeek": 1357,
     "timeMonth": 1357,
     "timeYear": 1357,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 1
+    }
   },
   {
     "name": "PEAKE Voice",
@@ -132,9 +140,9 @@
     "url": "pasm.peakesupport.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pasm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,6 +151,8 @@
     "timeWeek": 104,
     "timeMonth": 104,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   }
 ]
