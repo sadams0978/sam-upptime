@@ -72,7 +72,7 @@
     "uptimeYear": "99.86%",
     "time": 303,
     "timeDay": 303,
-    "timeWeek": 317,
+    "timeWeek": 314,
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {
@@ -128,18 +128,20 @@
     "url": "https://vectordatasystems.com",
     "icon": "https://icons.duckduckgo.com/ip3/vectordatasystems.com.ico",
     "slug": "vector-data-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1935,
-    "timeDay": 2139,
-    "timeWeek": 2020,
-    "timeMonth": 1935,
-    "timeYear": 1935,
-    "dailyMinutesDown": {}
+    "time": 1896,
+    "timeDay": 1154,
+    "timeWeek": 1789,
+    "timeMonth": 1896,
+    "timeYear": 1896,
+    "dailyMinutesDown": {
+      "2023-06-02": 0
+    }
   },
   {
     "name": "PASM",
