@@ -130,19 +130,19 @@
     "url": "https://vectordatasystems.com",
     "icon": "https://icons.duckduckgo.com/ip3/vectordatasystems.com.ico",
     "slug": "vector-data-systems",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1818,
-    "timeDay": 1110,
-    "timeWeek": 1492,
-    "timeMonth": 1729,
-    "timeYear": 1818,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1815,
+    "timeDay": 1276,
+    "timeWeek": 1503,
+    "timeMonth": 1726,
+    "timeYear": 1815,
     "dailyMinutesDown": {
-      "2023-06-11": 0
+      "2023-06-11": 8
     }
   },
   {
