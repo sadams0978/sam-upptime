@@ -4,18 +4,20 @@
     "url": "https://peaketechnology.com/",
     "icon": "https://icons.duckduckgo.com/ip3/peaketechnology.com.ico",
     "slug": "peake-technology-partners",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2961,
-    "timeDay": 3543,
-    "timeWeek": 3044,
-    "timeMonth": 2874,
-    "timeYear": 2961,
-    "dailyMinutesDown": {}
+    "time": 2923,
+    "timeDay": 1902,
+    "timeWeek": 2696,
+    "timeMonth": 2790,
+    "timeYear": 2923,
+    "dailyMinutesDown": {
+      "2023-07-01": 0
+    }
   },
   {
     "name": "PEAKE SSO",
@@ -132,18 +134,20 @@
     "url": "https://vectordatasystems.com",
     "icon": "https://icons.duckduckgo.com/ip3/vectordatasystems.com.ico",
     "slug": "vector-data-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1849,
-    "timeDay": 2833,
-    "timeWeek": 2101,
-    "timeMonth": 1752,
-    "timeYear": 1849,
-    "dailyMinutesDown": {}
+    "time": 1830,
+    "timeDay": 1549,
+    "timeWeek": 1871,
+    "timeMonth": 1712,
+    "timeYear": 1830,
+    "dailyMinutesDown": {
+      "2023-07-01": 0
+    }
   },
   {
     "name": "PASM",
