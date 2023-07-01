@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/peaketechnology.com.ico",
     "slug": "peake-technology-partners",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.79%",
+    "uptimeDay": "87.44%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.79%",
     "time": 2923,
     "timeDay": 1902,
     "timeWeek": 2696,
     "timeMonth": 2790,
     "timeYear": 2923,
     "dailyMinutesDown": {
-      "2023-07-01": 0
+      "2023-07-01": 181
     }
   },
   {
@@ -45,9 +45,9 @@
     "url": "https://cw.peakesupport.com",
     "icon": "https://icons.duckduckgo.com/ip3/cw.peakesupport.com.ico",
     "slug": "peake-cw-manage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
@@ -57,6 +57,7 @@
     "timeMonth": 308,
     "timeYear": 305,
     "dailyMinutesDown": {
+      "2023-07-01": 0,
       "2023-06-14": 71,
       "2023-05-11": 16,
       "2023-05-09": 45
@@ -135,18 +136,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vectordatasystems.com.ico",
     "slug": "vector-data-systems",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.79%",
+    "uptimeDay": "87.44%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.79%",
     "time": 1830,
     "timeDay": 1549,
     "timeWeek": 1871,
     "timeMonth": 1712,
     "timeYear": 1830,
     "dailyMinutesDown": {
-      "2023-07-01": 0
+      "2023-07-01": 181
     }
   },
   {
