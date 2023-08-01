@@ -34,11 +34,17 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
+  
+  #General Settings
   baseUrl: /sam-upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Sam Test Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: dark
+  favicon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
+
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://peaketechnology.com/wp-content/uploads/2022/12/6389e642ac476c6c414d112c_peake_icon-1.png
+  name: PEAKE Technology Partners Upptime
+  introTitle: "**Welcome to our Uptime Page**"
+  introMessage: Please see our Service Uptime Page at the GitHub Link Above 
   navbar:
     - title: Status
       href: /
