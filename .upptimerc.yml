@@ -37,14 +37,14 @@ status-website:
   
   #General Settings
   baseUrl: /sam-upptime
-  theme: dark
+  theme: night
   favicon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
 
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://peaketechnology.com/wp-content/uploads/2022/12/6389e642ac476c6c414d112c_peake_icon-1.png
-  name: PEAKE Technology Partners Upptime
+  name: PEAKE Technology Partners
   introTitle: "**Welcome to our Uptime Page**"
-  introMessage: Please see our Service Uptime Page at the GitHub Link Above 
+  introMessage: Please Visit our GitHub Repo Above! 
   navbar:
     - title: Status
       href: /
