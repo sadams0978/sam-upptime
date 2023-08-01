@@ -11,6 +11,7 @@ sites:
     url: https://cw.peakesupport.com
   - name: PEAKE CW Automate
     url: https://lt.peakesupport.com/automate
+    icon: https://lt.peakesupport.com/automate/favicon.ico
   - name: PEAKE CW Control
     url: https://help.peakesupport.com
   - name: PEAKE Voice
