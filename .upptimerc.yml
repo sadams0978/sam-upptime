@@ -7,6 +7,7 @@ sites:
     url: https://peaketechnology.com/
   - name: PEAKE SSO
     url: https://sso.peaketechnology.com/adfs/ls/idpinitiatedsignon
+    icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
   - name: PEAKE CW Manage
     url: https://cw.peakesupport.com
   - name: PEAKE CW Automate
@@ -22,6 +23,7 @@ sites:
   - name: PASM
     check: "tcp-ping"
     url: pasm.peakesupport.com
+    icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
     port: 81
     __dangerous__insecure: true
     
