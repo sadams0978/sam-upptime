@@ -55,7 +55,9 @@ sites:
   - name: Slack
     url: https://peaketechnology.slack.com
     icon: https://peaketechnology.slack.com/favicon.ico
-
+  
+  - name: Test Failed Site
+    url: https://8.8.8.8
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
