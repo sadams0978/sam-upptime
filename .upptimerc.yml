@@ -56,8 +56,17 @@ sites:
     url: https://peaketechnology.slack.com
     icon: https://peaketechnology.slack.com/favicon.ico
   
-  - name: Test Failed Site
-    url: https://8.8.8.9
+  - name: Google DNS
+    check: "tcp-ping"
+    url: 8.8.8.8
+    icon: https://www.google.com/favicon.ico
+    port: 53
+  
+  - name: Cloudflare DNS
+    check: "tcp-ping"
+    url: 1.1.1.1
+    icon: https://1.1.1.1/favicon.ico
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
