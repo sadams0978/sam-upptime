@@ -5,35 +5,51 @@ repo: sam-upptime # The name of this repository
 sites:
   - name: PEAKE Technology Partners
     url: https://peaketechnology.com/
+    
   - name: PEAKE SSO
     url: https://sso.peaketechnology.com/adfs/ls/idpinitiatedsignon
     icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
+    
   - name: PEAKE CW Manage
     url: https://cw.peakesupport.com
+    
   - name: PEAKE CW Automate
     url: https://lt.peakesupport.com/automate
     icon: https://lt.peakesupport.com/automate/favicon.ico
+    
   - name: PEAKE CW Control
     url: https://help.peakesupport.com
+    
   - name: PEAKE Voice
     url: https://voice.peaketechnology.com
     __dangerous__insecure: true
+    
   - name: Vector Data Systems
     url: https://vectordatasystems.com
+    
   - name: PASM
     check: "tcp-ping"
     url: pasm.peakesupport.com
     icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
     port: 81
     __dangerous__insecure: true
+    
   - name: Rewst
     url: https:/app.rewst.io
+    icon: https://app.rewst.io/favicon.ico
+    
   - name: IT Glue
-    url: https:/peaketechnology.itglue.com
+    url: https://peaketechnology.itglue.com
+    icon: https://peaketechnology.itglue.com/favicon.ico
+    
   - name: Cisco Meraki
     url: https:/dashboard.meraki.com
+    icon: https://dashboard.meraki.com/favicon.ico
+    
   - name: Slack
-    url: https://peaketechnology.slack.com/
+    url: https://peaketechnology.slack.com
+    icon: https://peaketechnology.slack.com/favicon.ico
+    
   - name: Vector DNS 1
     check: "tcp-ping"
     url: 199.96.108.108
