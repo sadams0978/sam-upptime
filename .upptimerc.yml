@@ -26,8 +26,19 @@ sites:
     icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
     port: 81
     __dangerous__insecure: true
-    
-
+  - name: Rewst
+    url: https:/app.rewst.io
+  - name: IT Glue
+    url: https:/peaketechnology.itglue.com
+  - name: Cisco Meraki
+    url: https:/dashboard.meraki.com
+  - name: Slack
+    url: https://peaketechnology.slack.com/
+  - name: Vector DNS 1
+    check: "tcp-ping"
+    url: 199.96.108.108
+    icon: https://vectordatasystems.com/wp-content/uploads/2021/02/cropped-fav_con_vector-270x270.png
+    port: 53
 
 
 status-website:
@@ -47,7 +58,7 @@ status-website:
   introMessage: Please Visit our GitHub Repo Above! 
   navbar:
     - title: Status
-      href: /
+      href: /sam-upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
