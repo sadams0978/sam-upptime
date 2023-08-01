@@ -27,6 +27,12 @@ sites:
   - name: Vector Data Systems
     url: https://vectordatasystems.com
     
+  - name: Vector DNS 1
+    check: "tcp-ping"
+    url: 199.96.108.108
+    icon: https://vectordatasystems.com/wp-content/uploads/2021/02/cropped-fav_con_vector-270x270.png
+    port: 53
+    
   - name: PASM
     check: "tcp-ping"
     url: pasm.peakesupport.com
@@ -49,12 +55,6 @@ sites:
   - name: Slack
     url: https://peaketechnology.slack.com
     icon: https://peaketechnology.slack.com/favicon.ico
-    
-  - name: Vector DNS 1
-    check: "tcp-ping"
-    url: 199.96.108.108
-    icon: https://vectordatasystems.com/wp-content/uploads/2021/02/cropped-fav_con_vector-270x270.png
-    port: 53
 
 
 status-website:
