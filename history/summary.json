@@ -240,18 +240,18 @@
     "icon": "https://dashboard.meraki.com/favicon.ico",
     "slug": "cisco-meraki",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.74%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 503,
     "timeDay": 498,
     "timeWeek": 493,
     "timeMonth": 503,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2023-08-08": 40
+      "2023-08-08": 30
     }
   },
   {
