@@ -27,18 +27,17 @@
     "icon": "https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png",
     "slug": "peake-sso",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 256,
     "timeDay": 145,
     "timeWeek": 207,
     "timeMonth": 240,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-09-06": 7,
       "2023-05-11": 17,
       "2023-05-09": 45
     }
@@ -224,19 +223,17 @@
     "icon": "https://peaketechnology.itglue.com/favicon.ico",
     "slug": "it-glue",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 611,
     "timeDay": 604,
     "timeWeek": 609,
     "timeMonth": 613,
     "timeYear": 611,
-    "dailyMinutesDown": {
-      "2023-09-06": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cisco Meraki",
