@@ -222,19 +222,19 @@
     "url": "https://peaketechnology.itglue.com",
     "icon": "https://peaketechnology.itglue.com/favicon.ico",
     "slug": "it-glue",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 753,
-    "timeDay": 3950,
-    "timeWeek": 1372,
-    "timeMonth": 814,
-    "timeYear": 753,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 750,
+    "timeDay": 2847,
+    "timeWeek": 1299,
+    "timeMonth": 809,
+    "timeYear": 750,
     "dailyMinutesDown": {
-      "2023-09-09": 0
+      "2023-09-09": 19
     }
   },
   {
