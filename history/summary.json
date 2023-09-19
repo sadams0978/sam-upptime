@@ -99,7 +99,7 @@
     "uptimeYear": "99.84%",
     "time": 1206,
     "timeDay": 849,
-    "timeWeek": 1442,
+    "timeWeek": 1602,
     "timeMonth": 1279,
     "timeYear": 1206,
     "dailyMinutesDown": {
@@ -244,9 +244,9 @@
     "url": "https:/dashboard.meraki.com",
     "icon": "https://dashboard.meraki.com/favicon.ico",
     "slug": "cisco-meraki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -256,6 +256,7 @@
     "timeMonth": 506,
     "timeYear": 516,
     "dailyMinutesDown": {
+      "2023-09-19": 0,
       "2023-08-15": 15,
       "2023-08-08": 30
     }
