@@ -49,7 +49,7 @@ sites:
     icon: https://peaketechnology.itglue.com/favicon.ico
     
   - name: Cisco Meraki
-    url: https:/dashboard.meraki.com
+    url: https://dashboard.meraki.com
     icon: https://dashboard.meraki.com/favicon.ico
     
   - name: Slack
