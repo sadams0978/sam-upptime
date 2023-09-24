@@ -50,12 +50,12 @@
     "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 335,
     "timeDay": 557,
-    "timeWeek": 1009,
+    "timeWeek": 449,
     "timeMonth": 482,
     "timeYear": 335,
     "dailyMinutesDown": {
@@ -70,9 +70,9 @@
     "url": "https://lt.peakesupport.com/automate",
     "icon": "https://lt.peakesupport.com/automate/favicon.ico",
     "slug": "peake-cw-automate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -82,6 +82,7 @@
     "timeMonth": 422,
     "timeYear": 357,
     "dailyMinutesDown": {
+      "2023-09-24": 0,
       "2023-05-11": 16,
       "2023-05-09": 44
     }
@@ -100,7 +101,7 @@
     "time": 1205,
     "timeDay": 1568,
     "timeWeek": 1225,
-    "timeMonth": 1280,
+    "timeMonth": 1278,
     "timeYear": 1205,
     "dailyMinutesDown": {
       "2023-08-12": 16,
