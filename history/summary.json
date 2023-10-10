@@ -92,14 +92,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.peakesupport.com.ico",
     "slug": "peake-cw-control",
     "status": "up",
-    "uptime": "97.98%",
+    "uptime": "97.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.11%",
-    "uptimeYear": "97.98%",
+    "uptimeYear": "97.99%",
     "time": 1164,
     "timeDay": 1375,
-    "timeWeek": 900,
+    "timeWeek": 971,
     "timeMonth": 991,
     "timeYear": 1164,
     "dailyMinutesDown": {
@@ -188,9 +188,9 @@
     "url": "pasm.peakesupport.com",
     "icon": "https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png",
     "slug": "pasm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -200,6 +200,7 @@
     "timeMonth": 97,
     "timeYear": 95,
     "dailyMinutesDown": {
+      "2023-10-10": 0,
       "2023-06-15": 16,
       "2023-05-09": 42
     }
