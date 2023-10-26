@@ -91,9 +91,9 @@
     "url": "https://help.peakesupport.com",
     "icon": "https://icons.duckduckgo.com/ip3/help.peakesupport.com.ico",
     "slug": "peake-cw-control",
-    "status": "up",
+    "status": "down",
     "uptime": "98.17%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.11%",
     "uptimeYear": "98.17%",
@@ -103,6 +103,7 @@
     "timeMonth": 736,
     "timeYear": 1131,
     "dailyMinutesDown": {
+      "2023-10-26": 0,
       "2023-09-29": 437,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
@@ -156,7 +157,7 @@
     "uptimeYear": "99.52%",
     "time": 1867,
     "timeDay": 1850,
-    "timeWeek": 1858,
+    "timeWeek": 1950,
     "timeMonth": 1898,
     "timeYear": 1867,
     "dailyMinutesDown": {
