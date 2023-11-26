@@ -212,19 +212,19 @@
     "url": "https:/app.rewst.io",
     "icon": "https://app.rewst.io/favicon.ico",
     "slug": "rewst",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
-    "time": 696,
-    "timeDay": 458,
-    "timeWeek": 578,
-    "timeMonth": 616,
-    "timeYear": 696,
+    "time": 692,
+    "timeDay": 420,
+    "timeWeek": 549,
+    "timeMonth": 605,
+    "timeYear": 692,
     "dailyMinutesDown": {
-      "2023-11-26": 51
+      "2023-11-26": 43
     }
   },
   {
