@@ -183,9 +183,9 @@
     "url": "199.96.108.108",
     "icon": "https://vectordatasystems.com/wp-content/uploads/2021/02/cropped-fav_con_vector-270x270.png",
     "slug": "vector-dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -194,7 +194,9 @@
     "timeWeek": 21,
     "timeMonth": 30,
     "timeYear": 37,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "PASM",
@@ -309,9 +311,9 @@
     "url": "8.8.8.8",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -320,16 +322,18 @@
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 5,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "Cloudflare DNS",
     "url": "1.1.1.1",
     "icon": "https://1.1.1.1/favicon.ico",
     "slug": "cloudflare-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -338,6 +342,8 @@
     "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 6,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   }
 ]
