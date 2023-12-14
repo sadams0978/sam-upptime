@@ -26,9 +26,9 @@
     "url": "https://sso.peaketechnology.com/adfs/ls/idpinitiatedsignon",
     "icon": "https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png",
     "slug": "peake-sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -38,6 +38,7 @@
     "timeMonth": 221,
     "timeYear": 256,
     "dailyMinutesDown": {
+      "2023-12-14": 0,
       "2023-05-11": 17,
       "2023-05-09": 45
     }
@@ -184,18 +185,18 @@
     "icon": "https://vectordatasystems.com/wp-content/uploads/2021/02/cropped-fav_con_vector-270x270.png",
     "slug": "vector-dns-1",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 37,
     "timeDay": 20,
     "timeWeek": 21,
     "timeMonth": 30,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2023-12-14": 0
+      "2023-12-14": 46
     }
   },
   {
@@ -312,18 +313,18 @@
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google-dns",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 5,
     "timeDay": 2,
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 5,
     "dailyMinutesDown": {
-      "2023-12-14": 0
+      "2023-12-14": 45
     }
   },
   {
@@ -332,18 +333,18 @@
     "icon": "https://1.1.1.1/favicon.ico",
     "slug": "cloudflare-dns",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 6,
     "timeDay": 2,
     "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 6,
     "dailyMinutesDown": {
-      "2023-12-14": 0
+      "2023-12-14": 45
     }
   }
 ]
