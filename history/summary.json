@@ -27,9 +27,9 @@
     "url": "https://sso.peaketechnology.com/adfs/ls/idpinitiatedsignon",
     "icon": "https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png",
     "slug": "peake-sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -39,6 +39,7 @@
     "timeMonth": 206,
     "timeYear": 246,
     "dailyMinutesDown": {
+      "2024-04-10": 0,
       "2024-01-21": 28,
       "2023-05-11": 17,
       "2023-05-09": 45
