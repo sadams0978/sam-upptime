@@ -19,6 +19,10 @@ sites:
   - name: PEAKE Voice
     url: https://voice.peaketechnology.com
     __dangerous__insecure: true
+
+  - name: PEAKE O365
+    url: https://login.microsoftonline.com/login.srf?whr=peaketechnology.com
+    icon: https://res.cdn.office.net/officehub/images/content/images/favicon_m365-31d62b976c.ico
     
   - name: Vector Data Systems
     url: https://vectordatasystems.com
