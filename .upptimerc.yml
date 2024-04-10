@@ -6,10 +6,6 @@ sites:
   - name: PEAKE Technology Partners
     url: https://peaketechnology.com/
     
-  - name: PEAKE SSO
-    url: https://sso.peaketechnology.com/adfs/ls/idpinitiatedsignon
-    icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
-    
   - name: PEAKE CW Manage
     url: https://cw.peakesupport.com
     
