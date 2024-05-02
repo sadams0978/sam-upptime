@@ -6,15 +6,15 @@ sites:
   - name: PEAKE Technology Partners
     url: https://peaketechnology.com/
     
-  - name: PEAKE CW Manage
+  - name: PEAKE CW PSA
     url: https://cw.peakesupport.com
     
   - name: PEAKE CW Automate
-    url: https://lt.peakesupport.com/automate
-    icon: https://lt.peakesupport.com/automate/favicon.ico
+    url: https://peaketechnology.hostedrmm.com/automate
+    icon: https://peaketechnology.hostedrmm.com/automate/favicon.ico
     
-  - name: PEAKE CW Control
-    url: https://help.peakesupport.com
+  - name: PEAKE ScreenConnect
+    url: https://cwa-peaketechnology.screenconnect.com/
     
   - name: PEAKE Voice
     url: https://voice.peaketechnology.com
