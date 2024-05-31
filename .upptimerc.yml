@@ -7,7 +7,8 @@ sites:
     url: https://peaketechnology.com/
     
   - name: PEAKE CW PSA
-    url: https://cw.peakesupport.com
+    url: https://na.myconnectwise.net
+    icon: https://na.myconnectwise.net/v2024_1/favicon.ico
     
   - name: PEAKE CW Automate
     url: https://peaketechnology.hostedrmm.com/automate
@@ -23,9 +24,6 @@ sites:
   - name: PEAKE O365
     url: https://login.microsoftonline.com/login.srf?whr=peaketechnology.com
     icon: https://res.cdn.office.net/officehub/images/content/images/favicon_m365-31d62b976c.ico
-    
-  - name: Vector Data Systems
-    url: https://vectordatasystems.com
     
   - name: Vector DNS 1
     check: "tcp-ping"
