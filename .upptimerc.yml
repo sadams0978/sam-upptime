@@ -33,7 +33,7 @@ sites:
     
   - name: PASM
     check: "tcp-ping"
-    url: pasm.peakesupport.com
+    url: pasm.peaketechnology.com
     icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
     port: 81
     __dangerous__insecure: true
