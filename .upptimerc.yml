@@ -41,6 +41,14 @@ sites:
   - name: Rewst
     url: https:/app.rewst.io
     icon: https://app.rewst.io/favicon.ico
+
+  - name: Client Portal (Testing)
+    url: https:/cp.peaketechnology.com
+    icon: https://cp.peaketechnology.com/favicon.ico
+
+  - name: Client Portal (Production)
+    url: https:/portal.peaketechnology.com
+    icon: https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png
     
   - name: IT Glue
     url: https://peaketechnology.itglue.com
