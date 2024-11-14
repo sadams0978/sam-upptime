@@ -216,19 +216,20 @@
     "url": "https:/cp.peaketechnology.com",
     "icon": "https://cp.peaketechnology.com/favicon.ico",
     "slug": "client-portal-testing",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 572,
-    "timeDay": 706,
-    "timeWeek": 622,
-    "timeMonth": 531,
-    "timeYear": 572,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "95.08%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.93%",
+    "time": 570,
+    "timeDay": 610,
+    "timeWeek": 599,
+    "timeMonth": 527,
+    "timeYear": 570,
     "dailyMinutesDown": {
-      "2024-11-13": 0
+      "2024-11-14": 50,
+      "2024-11-13": 21
     }
   },
   {
