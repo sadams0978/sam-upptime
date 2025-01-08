@@ -28,11 +28,11 @@
     "icon": "https://na.myconnectwise.net/v2024_1/favicon.ico",
     "slug": "peake-cw-psa",
     "status": "up",
-    "uptime": "93.60%",
+    "uptime": "93.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.60%",
+    "uptimeYear": "93.63%",
     "time": 126,
     "timeDay": 125,
     "timeWeek": 81,
@@ -144,9 +144,9 @@
     "url": "199.96.108.108",
     "icon": "https://vectordatasystems.com/wp-content/uploads/2021/02/cropped-fav_con_vector-270x270.png",
     "slug": "vector-dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -155,7 +155,9 @@
     "timeWeek": 27,
     "timeMonth": 28,
     "timeYear": 29,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-08": 0
+    }
   },
   {
     "name": "PASM",
