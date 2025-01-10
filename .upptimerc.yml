@@ -25,12 +25,6 @@ sites:
     url: https://login.microsoftonline.com/login.srf?whr=peaketechnology.com
     icon: https://res.cdn.office.net/officehub/images/content/images/favicon_m365-31d62b976c.ico
     
-  - name: Vector DNS 1
-    check: "tcp-ping"
-    url: 199.96.108.108
-    icon: https://vectordatasystems.com/wp-content/uploads/2021/02/cropped-fav_con_vector-270x270.png
-    port: 53
-    
   - name: PASM
     check: "tcp-ping"
     url: pasm.peaketechnology.com
