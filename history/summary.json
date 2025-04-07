@@ -105,9 +105,9 @@
     "url": "https://voice.peaketechnology.com",
     "icon": "https://icons.duckduckgo.com/ip3/voice.peaketechnology.com.ico",
     "slug": "peake-voice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +116,9 @@
     "timeWeek": 312,
     "timeMonth": 441,
     "timeYear": 348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-07": 0
+    }
   },
   {
     "name": "PEAKE O365",
