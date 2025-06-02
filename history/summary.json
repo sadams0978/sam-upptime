@@ -26,7 +26,7 @@
     "icon": "https://na.myconnectwise.net/v2024_1/favicon.ico",
     "slug": "peake-cw-psa",
     "status": "up",
-    "uptime": "95.95%",
+    "uptime": "95.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -43,9 +43,9 @@
     "url": "https://peaketechnology.hostedrmm.com/automate",
     "icon": "https://peaketechnology.hostedrmm.com/automate/favicon.ico",
     "slug": "peake-cw-automate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,6 +55,7 @@
     "timeMonth": 342,
     "timeYear": 202,
     "dailyMinutesDown": {
+      "2025-06-02": 0,
       "2025-04-09": 19
     }
   },
