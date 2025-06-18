@@ -10,12 +10,9 @@ sites:
     url: https://na.myconnectwise.net
     icon: https://na.myconnectwise.net/v2024_1/favicon.ico
     
-  - name: PEAKE CW Automate
-    url: https://peaketechnology.hostedrmm.com/automate
-    icon: https://peaketechnology.hostedrmm.com/automate/favicon.ico
-    
-  - name: PEAKE ScreenConnect
-    url: https://cwa-peaketechnology.screenconnect.com/
+  - name: PEAKE Ninja
+    url: https://us2.ninjarmm.com
+    icon: https://us2.ninjarmm.com/img/favicon.png
     
   - name: PEAKE Voice
     url: https://voice.peaketechnology.com
