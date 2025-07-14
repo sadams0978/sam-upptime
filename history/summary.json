@@ -25,7 +25,7 @@
     "icon": "https://na.myconnectwise.net/v2025_1/favicon.ico",
     "slug": "peake-cw-psa",
     "status": "up",
-    "uptime": "96.34%",
+    "uptime": "96.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -103,7 +103,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 28,
-    "timeDay": 22,
+    "timeDay": 24,
     "timeWeek": 21,
     "timeMonth": 25,
     "timeYear": 28,
@@ -281,9 +281,9 @@
     "url": "1.1.1.1",
     "icon": "https://1.1.1.1/favicon.ico",
     "slug": "cloudflare-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -292,6 +292,8 @@
     "timeWeek": 5,
     "timeMonth": 6,
     "timeYear": 4,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 0
+    }
   }
 ]
