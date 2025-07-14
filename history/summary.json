@@ -281,11 +281,11 @@
     "url": "1.1.1.1",
     "icon": "https://1.1.1.1/favicon.ico",
     "slug": "cloudflare-dns",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 4,
     "timeDay": 3,
@@ -293,7 +293,7 @@
     "timeMonth": 6,
     "timeYear": 4,
     "dailyMinutesDown": {
-      "2025-07-14": 0
+      "2025-07-14": 23
     }
   }
 ]
