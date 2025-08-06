@@ -25,7 +25,7 @@
     "icon": "https://na.myconnectwise.net/v2025_1/favicon.ico",
     "slug": "peake-cw-psa",
     "status": "up",
-    "uptime": "96.52%",
+    "uptime": "96.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -96,9 +96,9 @@
     "url": "pasm.peaketechnology.com",
     "icon": "https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png",
     "slug": "pasm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -108,6 +108,7 @@
     "timeMonth": 34,
     "timeYear": 28,
     "dailyMinutesDown": {
+      "2025-08-06": 0,
       "2024-10-18": 19,
       "2024-08-27": 15
     }
