@@ -60,19 +60,19 @@
     "url": "https://voice.peaketechnology.com",
     "icon": "https://icons.duckduckgo.com/ip3/voice.peaketechnology.com.ico",
     "slug": "peake-voice",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 353,
-    "timeWeek": 391,
-    "timeMonth": 443,
-    "timeYear": 412,
+    "time": 416,
+    "timeDay": 3954,
+    "timeWeek": 1286,
+    "timeMonth": 665,
+    "timeYear": 431,
     "dailyMinutesDown": {
-      "2025-09-17": 0
+      "2025-09-17": 13
     }
   },
   {
