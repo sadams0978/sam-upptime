@@ -16,15 +16,15 @@ sites:
     
   - name: PEAKE Voice
     url: https://voice.peaketechnology.com
-    icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
+    icon: https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png
     
   - name: PEAKE Voice Core 1
     url: https://core1-dca.vectordata.net
-    icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
+    icon: https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png
 
   - name: PEAKE Voice Core 3
     url: https://core3-dca.vectordata.net
-    icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
+    icon: https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png
 
   - name: PEAKE O365
     url: https://login.microsoftonline.com/login.srf?whr=peaketechnology.com
@@ -33,7 +33,7 @@ sites:
   - name: PASM
     check: "tcp-ping"
     url: pasm.peaketechnology.com
-    icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
+    icon: https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png
     port: 81
     __dangerous__insecure: true
     
