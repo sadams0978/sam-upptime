@@ -77,18 +77,18 @@
     "icon": "https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png",
     "slug": "peake-voice-core-1",
     "status": "down",
-    "uptime": "2.65%",
-    "uptimeDay": "2.65%",
-    "uptimeWeek": "2.65%",
-    "uptimeMonth": "2.65%",
-    "uptimeYear": "2.65%",
+    "uptime": "1.39%",
+    "uptimeDay": "1.39%",
+    "uptimeWeek": "1.39%",
+    "uptimeMonth": "1.39%",
+    "uptimeYear": "1.39%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-19": 0
+      "2025-10-19": 1
     }
   },
   {
