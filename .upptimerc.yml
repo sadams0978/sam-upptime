@@ -16,7 +16,15 @@ sites:
     
   - name: PEAKE Voice
     url: https://voice.peaketechnology.com
-    __dangerous__insecure: true
+    icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
+    
+  - name: PEAKE Voice Core 1
+    url: https://core1-dca.vectordata.net
+    icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
+
+  - name: PEAKE Voice Core 3
+    url: https://core3-dca.vectordata.net
+    icon: https://peaketechnology.com/wp-content/uploads/2022/11/cropped-PEAKE-Icon-32x32.png
 
   - name: PEAKE O365
     url: https://login.microsoftonline.com/login.srf?whr=peaketechnology.com
@@ -33,9 +41,6 @@ sites:
     url: https:/app.rewst.io
     icon: https://app.rewst.io/favicon.ico
 
-  - name: Client Portal (Testing)
-    url: https:/cp.peaketechnology.com
-    icon: https://cp.peaketechnology.com/favicon.ico
 
   - name: Client Portal (Production)
     url: https:/portal.peaketechnology.com
