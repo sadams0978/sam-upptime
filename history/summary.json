@@ -4,18 +4,20 @@
     "url": "https://peaketechnology.com/",
     "icon": "https://icons.duckduckgo.com/ip3/peaketechnology.com.ico",
     "slug": "peake-technology-partners",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 431,
-    "timeWeek": 395,
-    "timeMonth": 368,
-    "timeYear": 303,
-    "dailyMinutesDown": {}
+    "timeDay": 298,
+    "timeWeek": 367,
+    "timeMonth": 362,
+    "timeYear": 302,
+    "dailyMinutesDown": {
+      "2025-11-06": 0
+    }
   },
   {
     "name": "PEAKE CW PSA",
