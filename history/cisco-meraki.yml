@@ -1,7 +1,7 @@
 url: https://dashboard.meraki.com
-status: down
-code: 502
-responseTime: 583
-lastUpdated: 2025-11-14T05:56:17.171Z
+status: up
+code: 200
+responseTime: 564
+lastUpdated: 2025-11-14T06:24:53.125Z
 startTime: 2023-08-01T02:57:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
