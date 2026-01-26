@@ -154,18 +154,20 @@
     "url": "https:/app.rewst.io",
     "icon": "https://app.rewst.io/favicon.ico",
     "slug": "rewst",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 726,
-    "timeWeek": 619,
-    "timeMonth": 610,
-    "timeYear": 657,
-    "dailyMinutesDown": {}
+    "time": 664,
+    "timeDay": 734,
+    "timeWeek": 634,
+    "timeMonth": 614,
+    "timeYear": 658,
+    "dailyMinutesDown": {
+      "2026-01-26": 0
+    }
   },
   {
     "name": "Client Portal (Production)",
