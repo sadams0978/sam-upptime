@@ -61,18 +61,18 @@
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "91.20%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.98%",
     "time": 479,
     "timeDay": 326,
     "timeWeek": 487,
     "timeMonth": 423,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2026-04-04": 0
+      "2026-04-04": 127
     }
   },
   {
