@@ -60,18 +60,19 @@
     "url": "https://voice.peaketechnology.com",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.71%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.34%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.97%",
     "time": 480,
-    "timeDay": 558,
+    "timeDay": 809,
     "timeWeek": 528,
     "timeMonth": 430,
     "timeYear": 522,
     "dailyMinutesDown": {
+      "2026-04-05": 0,
       "2026-04-04": 167
     }
   },
@@ -205,7 +206,7 @@
     "timeDay": 613,
     "timeWeek": 622,
     "timeMonth": 631,
-    "timeYear": 604,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2025-05-16": 25,
       "2025-05-13": 26,
