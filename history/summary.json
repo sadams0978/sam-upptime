@@ -60,13 +60,13 @@
     "url": "https://voice.peaketechnology.com",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "76.54%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "75.84%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.90%",
-    "time": 511,
+    "time": 512,
     "timeDay": 559,
     "timeWeek": 471,
     "timeMonth": 530,
@@ -74,7 +74,8 @@
     "dailyMinutesDown": {
       "2026-04-04": 167,
       "2026-04-05": 25,
-      "2026-06-01": 338
+      "2026-06-01": 338,
+      "2026-06-02": 10
     }
   },
   {
@@ -82,11 +83,11 @@
     "url": "https://core1-dca.vectordata.net",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "76.88%",
-    "uptimeWeek": "96.70%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "76.51%",
+    "uptimeWeek": "96.64%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "99.85%",
     "time": 456,
     "timeDay": 542,
@@ -95,7 +96,8 @@
     "timeYear": 456,
     "dailyMinutesDown": {
       "2025-10-19": 165,
-      "2026-06-01": 333
+      "2026-06-01": 333,
+      "2026-06-02": 5
     }
   },
   {
@@ -103,9 +105,9 @@
     "url": "https://core3-dca.vectordata.net",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "77.21%",
+    "uptimeDay": "77.19%",
     "uptimeWeek": "96.74%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.90%",
@@ -115,7 +117,8 @@
     "timeMonth": 356,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2026-06-01": 328
+      "2026-06-01": 328,
+      "2026-06-02": 0
     }
   },
   {
@@ -200,19 +203,19 @@
     "url": "https://peaketechnology.itglue.com",
     "icon": "https://peaketechnology.itglue.com/favicon.ico",
     "slug": "it-glue",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 351,
-    "timeWeek": 804,
-    "timeMonth": 796,
-    "timeYear": 633,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "79.65%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.94%",
+    "time": 615,
+    "timeDay": 361,
+    "timeWeek": 757,
+    "timeMonth": 784,
+    "timeYear": 632,
     "dailyMinutesDown": {
-      "2026-06-02": 0
+      "2026-06-02": 293
     }
   },
   {
