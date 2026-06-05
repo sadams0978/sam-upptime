@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 329,
     "timeDay": 696,
-    "timeWeek": 332,
-    "timeMonth": 283,
+    "timeWeek": 362,
+    "timeMonth": 281,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2025-11-06": 27
@@ -32,8 +32,8 @@
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 129,
-    "timeWeek": 93,
-    "timeMonth": 112,
+    "timeWeek": 105,
+    "timeMonth": 111,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -50,8 +50,8 @@
     "uptimeYear": "100.00%",
     "time": 407,
     "timeDay": 259,
-    "timeWeek": 145,
-    "timeMonth": 299,
+    "timeWeek": 155,
+    "timeMonth": 304,
     "timeYear": 407,
     "dailyMinutesDown": {}
   },
@@ -60,23 +60,25 @@
     "url": "https://voice.peaketechnology.com",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "89.97%",
-    "uptimeMonth": "97.69%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "89.87%",
+    "uptimeMonth": "97.67%",
     "uptimeYear": "99.77%",
     "time": 520,
     "timeDay": 641,
-    "timeWeek": 816,
-    "timeMonth": 639,
-    "timeYear": 529,
+    "timeWeek": 861,
+    "timeMonth": 644,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2026-04-04": 167,
       "2026-04-05": 25,
       "2026-06-01": 338,
       "2026-06-02": 407,
-      "2026-06-03": 267
+      "2026-06-03": 267,
+      "2026-06-05": 9,
+      "2026-06-04": 1
     }
   },
   {
@@ -84,22 +86,23 @@
     "url": "https://core1-dca.vectordata.net",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.16%",
-    "uptimeMonth": "97.74%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "90.11%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.65%",
     "time": 457,
     "timeDay": 715,
-    "timeWeek": 467,
-    "timeMonth": 529,
+    "timeWeek": 477,
+    "timeMonth": 531,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2025-10-19": 165,
       "2026-06-01": 333,
       "2026-06-02": 397,
-      "2026-06-03": 262
+      "2026-06-03": 262,
+      "2026-06-05": 5
     }
   },
   {
@@ -107,21 +110,22 @@
     "url": "https://core3-dca.vectordata.net",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "90.35%",
     "uptimeMonth": "97.78%",
     "uptimeYear": "99.70%",
     "time": 330,
     "timeDay": 575,
-    "timeWeek": 400,
-    "timeMonth": 380,
+    "timeWeek": 412,
+    "timeMonth": 381,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2026-06-01": 328,
       "2026-06-02": 387,
-      "2026-06-03": 257
+      "2026-06-03": 257,
+      "2026-06-05": 0
     }
   },
   {
@@ -137,9 +141,9 @@
     "uptimeYear": "100.00%",
     "time": 316,
     "timeDay": 139,
-    "timeWeek": 237,
-    "timeMonth": 275,
-    "timeYear": 323,
+    "timeWeek": 209,
+    "timeMonth": 279,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   },
   {
@@ -155,7 +159,7 @@
     "uptimeYear": "99.98%",
     "time": 33,
     "timeDay": 58,
-    "timeWeek": 31,
+    "timeWeek": 36,
     "timeMonth": 29,
     "timeYear": 33,
     "dailyMinutesDown": {
@@ -176,9 +180,9 @@
     "uptimeYear": "99.99%",
     "time": 645,
     "timeDay": 1190,
-    "timeWeek": 672,
-    "timeMonth": 661,
-    "timeYear": 651,
+    "timeWeek": 677,
+    "timeMonth": 669,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2026-01-26": 28
     }
@@ -196,8 +200,8 @@
     "uptimeYear": "100.00%",
     "time": 378,
     "timeDay": 156,
-    "timeWeek": 563,
-    "timeMonth": 588,
+    "timeWeek": 533,
+    "timeMonth": 592,
     "timeYear": 379,
     "dailyMinutesDown": {}
   },
@@ -208,14 +212,14 @@
     "slug": "it-glue",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "67.63%",
+    "uptimeDay": "73.33%",
     "uptimeWeek": "92.23%",
     "uptimeMonth": "98.21%",
     "uptimeYear": "99.85%",
     "time": 613,
     "timeDay": 475,
-    "timeWeek": 596,
-    "timeMonth": 733,
+    "timeWeek": 548,
+    "timeMonth": 741,
     "timeYear": 631,
     "dailyMinutesDown": {
       "2026-06-02": 293,
@@ -236,8 +240,8 @@
     "uptimeYear": "99.96%",
     "time": 437,
     "timeDay": 931,
-    "timeWeek": 500,
-    "timeMonth": 413,
+    "timeWeek": 496,
+    "timeMonth": 411,
     "timeYear": 444,
     "dailyMinutesDown": {
       "2025-06-07": 102,
@@ -260,8 +264,8 @@
     "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 376,
-    "timeWeek": 356,
-    "timeMonth": 270,
+    "timeWeek": 379,
+    "timeMonth": 269,
     "timeYear": 282,
     "dailyMinutesDown": {}
   },
@@ -278,8 +282,8 @@
     "uptimeYear": "100.00%",
     "time": 5,
     "timeDay": 2,
-    "timeWeek": 6,
-    "timeMonth": 6,
+    "timeWeek": 7,
+    "timeMonth": 5,
     "timeYear": 5,
     "dailyMinutesDown": {}
   },
@@ -296,8 +300,8 @@
     "uptimeYear": "100.00%",
     "time": 5,
     "timeDay": 45,
-    "timeWeek": 12,
-    "timeMonth": 8,
+    "timeWeek": 13,
+    "timeMonth": 7,
     "timeYear": 6,
     "dailyMinutesDown": {
       "2025-07-14": 23
