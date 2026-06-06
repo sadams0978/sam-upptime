@@ -25,7 +25,7 @@
     "icon": "https://na.myconnectwise.net/v2025_1/favicon.ico",
     "slug": "peake-cw-psa",
     "status": "up",
-    "uptime": "97.90%",
+    "uptime": "97.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -42,19 +42,19 @@
     "url": "https://us2.ninjarmm.com",
     "icon": "https://us2.ninjarmm.com/img/favicon.png",
     "slug": "peake-ninja",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.99%",
-    "time": 406,
-    "timeDay": 159,
-    "timeWeek": 155,
-    "timeMonth": 297,
-    "timeYear": 406,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "89.94%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.97%",
+    "time": 405,
+    "timeDay": 138,
+    "timeWeek": 150,
+    "timeMonth": 291,
+    "timeYear": 405,
     "dailyMinutesDown": {
-      "2026-06-06": 45
+      "2026-06-06": 145
     }
   },
   {
@@ -62,11 +62,11 @@
     "url": "https://voice.peaketechnology.com",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "94.01%",
-    "uptimeWeek": "89.11%",
-    "uptimeMonth": "97.49%",
+    "uptimeDay": "93.30%",
+    "uptimeWeek": "89.01%",
+    "uptimeMonth": "97.47%",
     "uptimeYear": "99.75%",
     "time": 520,
     "timeDay": 362,
@@ -79,7 +79,8 @@
       "2026-06-01": 338,
       "2026-06-02": 407,
       "2026-06-03": 267,
-      "2026-06-05": 86
+      "2026-06-05": 86,
+      "2026-06-06": 10
     }
   },
   {
@@ -88,11 +89,11 @@
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-1",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "91.69%",
-    "uptimeWeek": "88.97%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.58%",
+    "uptimeDay": "83.73%",
+    "uptimeWeek": "87.84%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "99.58%",
     "time": 457,
     "timeDay": 339,
     "timeWeek": 471,
@@ -104,7 +105,7 @@
       "2026-06-02": 397,
       "2026-06-03": 262,
       "2026-06-05": 81,
-      "2026-06-06": 38
+      "2026-06-06": 153
     }
   },
   {
@@ -113,11 +114,11 @@
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-3",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "92.52%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.64%",
+    "uptimeDay": "84.56%",
+    "uptimeWeek": "88.15%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "99.64%",
     "time": 330,
     "timeDay": 267,
     "timeWeek": 384,
@@ -128,7 +129,7 @@
       "2026-06-02": 387,
       "2026-06-03": 257,
       "2026-06-05": 77,
-      "2026-06-06": 31
+      "2026-06-06": 146
     }
   },
   {
@@ -175,20 +176,20 @@
     "url": "https:/app.rewst.io",
     "icon": "https://app.rewst.io/favicon.ico",
     "slug": "rewst",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 644,
-    "timeDay": 499,
-    "timeWeek": 659,
-    "timeMonth": 659,
-    "timeYear": 649,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "90.41%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.97%",
+    "time": 645,
+    "timeDay": 790,
+    "timeWeek": 712,
+    "timeMonth": 672,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2026-01-26": 28,
-      "2026-06-06": 24
+      "2026-06-06": 138
     }
   },
   {
@@ -216,10 +217,10 @@
     "slug": "it-glue",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "90.70%",
-    "uptimeMonth": "97.86%",
-    "uptimeYear": "99.82%",
+    "uptimeDay": "90.87%",
+    "uptimeWeek": "89.57%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "99.80%",
     "time": 615,
     "timeDay": 975,
     "timeWeek": 581,
@@ -230,7 +231,7 @@
       "2026-06-04": 393,
       "2026-06-03": 97,
       "2026-06-05": 137,
-      "2026-06-06": 17
+      "2026-06-06": 131
     }
   },
   {
@@ -238,16 +239,16 @@
     "url": "https://dashboard.meraki.com",
     "icon": "https://dashboard.meraki.com/favicon.ico",
     "slug": "cisco-meraki",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "91.39%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.94%",
     "time": 436,
-    "timeDay": 485,
-    "timeWeek": 496,
-    "timeMonth": 411,
+    "timeDay": 390,
+    "timeWeek": 471,
+    "timeMonth": 407,
     "timeYear": 444,
     "dailyMinutesDown": {
       "2025-06-07": 102,
@@ -255,7 +256,7 @@
       "2025-11-05": 16,
       "2025-11-14": 29,
       "2025-12-05": 27,
-      "2026-06-06": 10
+      "2026-06-06": 124
     }
   },
   {
@@ -263,19 +264,19 @@
     "url": "https://peaketechnology.slack.com",
     "icon": "https://peaketechnology.slack.com/favicon.ico",
     "slug": "slack",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "91.89%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.98%",
     "time": 273,
-    "timeDay": 185,
-    "timeWeek": 339,
-    "timeMonth": 263,
+    "timeDay": 175,
+    "timeWeek": 317,
+    "timeMonth": 260,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2026-06-06": 3
+      "2026-06-06": 117
     }
   },
   {
