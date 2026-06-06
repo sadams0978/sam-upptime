@@ -42,18 +42,20 @@
     "url": "https://us2.ninjarmm.com",
     "icon": "https://us2.ninjarmm.com/img/favicon.png",
     "slug": "peake-ninja",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 406,
     "timeDay": 159,
     "timeWeek": 155,
     "timeMonth": 297,
     "timeYear": 406,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-06": 45
+    }
   },
   {
     "name": "PEAKE Voice",
@@ -85,12 +87,12 @@
     "url": "https://core1-dca.vectordata.net",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-1",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "94.34%",
-    "uptimeWeek": "89.35%",
-    "uptimeMonth": "97.55%",
-    "uptimeYear": "99.63%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "91.69%",
+    "uptimeWeek": "88.97%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "99.61%",
     "time": 457,
     "timeDay": 339,
     "timeWeek": 471,
@@ -101,7 +103,8 @@
       "2026-06-01": 333,
       "2026-06-02": 397,
       "2026-06-03": 262,
-      "2026-06-05": 81
+      "2026-06-05": 81,
+      "2026-06-06": 38
     }
   },
   {
@@ -109,12 +112,12 @@
     "url": "https://core3-dca.vectordata.net",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-3",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "94.68%",
-    "uptimeWeek": "89.59%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "99.68%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "89.28%",
+    "uptimeMonth": "97.53%",
+    "uptimeYear": "99.67%",
     "time": 330,
     "timeDay": 267,
     "timeWeek": 384,
@@ -124,7 +127,8 @@
       "2026-06-01": 328,
       "2026-06-02": 387,
       "2026-06-03": 257,
-      "2026-06-05": 77
+      "2026-06-05": 77,
+      "2026-06-06": 31
     }
   },
   {
@@ -171,19 +175,20 @@
     "url": "https:/app.rewst.io",
     "icon": "https://app.rewst.io/favicon.ico",
     "slug": "rewst",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 645,
+    "time": 644,
     "timeDay": 499,
     "timeWeek": 659,
     "timeMonth": 659,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2026-01-26": 28
+      "2026-01-26": 28,
+      "2026-06-06": 24
     }
   },
   {
@@ -209,11 +214,11 @@
     "url": "https://peaketechnology.itglue.com",
     "icon": "https://peaketechnology.itglue.com/favicon.ico",
     "slug": "it-glue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.87%",
-    "uptimeMonth": "97.90%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "90.70%",
+    "uptimeMonth": "97.86%",
     "uptimeYear": "99.82%",
     "time": 615,
     "timeDay": 975,
@@ -224,7 +229,8 @@
       "2026-06-02": 293,
       "2026-06-04": 393,
       "2026-06-03": 97,
-      "2026-06-05": 137
+      "2026-06-05": 137,
+      "2026-06-06": 17
     }
   },
   {
@@ -232,13 +238,13 @@
     "url": "https://dashboard.meraki.com",
     "icon": "https://dashboard.meraki.com/favicon.ico",
     "slug": "cisco-meraki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
-    "time": 437,
+    "time": 436,
     "timeDay": 485,
     "timeWeek": 496,
     "timeMonth": 411,
@@ -248,7 +254,8 @@
       "2025-06-10": 26,
       "2025-11-05": 16,
       "2025-11-14": 29,
-      "2025-12-05": 27
+      "2025-12-05": 27,
+      "2026-06-06": 10
     }
   },
   {
@@ -256,18 +263,20 @@
     "url": "https://peaketechnology.slack.com",
     "icon": "https://peaketechnology.slack.com/favicon.ico",
     "slug": "slack",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 185,
     "timeWeek": 339,
     "timeMonth": 263,
     "timeYear": 281,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-06": 3
+    }
   },
   {
     "name": "Google DNS",
