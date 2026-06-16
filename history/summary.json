@@ -221,17 +221,17 @@
     "url": "https://peaketechnology.itglue.com",
     "icon": "https://peaketechnology.itglue.com/favicon.ico",
     "slug": "it-glue",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "96.54%",
-    "uptimeMonth": "96.00%",
-    "uptimeYear": "99.67%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "92.68%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "95.76%",
+    "uptimeYear": "99.65%",
     "time": 618,
-    "timeDay": 312,
-    "timeWeek": 614,
-    "timeMonth": 676,
-    "timeYear": 632,
+    "timeDay": 630,
+    "timeWeek": 644,
+    "timeMonth": 682,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2026-06-02": 293,
       "2026-06-04": 393,
@@ -241,7 +241,7 @@
       "2026-06-07": 116,
       "2026-06-09": 270,
       "2026-06-14": 94,
-      "2026-06-16": 0
+      "2026-06-16": 105
     }
   },
   {
