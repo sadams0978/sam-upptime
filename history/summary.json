@@ -14,7 +14,7 @@
     "timeDay": 368,
     "timeWeek": 346,
     "timeMonth": 294,
-    "timeYear": 341,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2025-11-06": 27
     }
@@ -64,10 +64,10 @@
     "slug": "peake-voice",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "83.30%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "95.32%",
-    "uptimeYear": "99.57%",
+    "uptimeDay": "84.14%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "95.35%",
+    "uptimeYear": "99.58%",
     "time": 527,
     "timeDay": 714,
     "timeWeek": 647,
@@ -83,8 +83,7 @@
       "2026-06-06": 212,
       "2026-06-08": 280,
       "2026-06-09": 219,
-      "2026-06-17": 229,
-      "2026-06-18": 11
+      "2026-06-17": 228
     }
   },
   {
@@ -93,11 +92,11 @@
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-1",
     "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "83.97%",
-    "uptimeWeek": "97.71%",
-    "uptimeMonth": "95.09%",
-    "uptimeYear": "99.33%",
+    "uptime": "99.34%",
+    "uptimeDay": "84.48%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "95.11%",
+    "uptimeYear": "99.34%",
     "time": 458,
     "timeDay": 572,
     "timeWeek": 563,
@@ -112,8 +111,7 @@
       "2026-06-06": 355,
       "2026-06-08": 275,
       "2026-06-09": 215,
-      "2026-06-17": 223,
-      "2026-06-18": 7
+      "2026-06-17": 223
     }
   },
   {
@@ -123,9 +121,9 @@
     "slug": "peake-voice-core-3",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "84.64%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "95.21%",
+    "uptimeDay": "84.82%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "95.22%",
     "uptimeYear": "99.40%",
     "time": 333,
     "timeDay": 568,
@@ -140,8 +138,7 @@
       "2026-06-06": 348,
       "2026-06-08": 270,
       "2026-06-09": 210,
-      "2026-06-17": 219,
-      "2026-06-18": 3
+      "2026-06-17": 219
     }
   },
   {
@@ -159,7 +156,7 @@
     "timeDay": 434,
     "timeWeek": 268,
     "timeMonth": 313,
-    "timeYear": 326,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   },
   {
@@ -237,7 +234,7 @@
     "timeDay": 760,
     "timeWeek": 541,
     "timeMonth": 667,
-    "timeYear": 633,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2026-06-02": 293,
       "2026-06-04": 393,
