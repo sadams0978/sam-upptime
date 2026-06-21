@@ -14,7 +14,7 @@
     "timeDay": 365,
     "timeWeek": 314,
     "timeMonth": 279,
-    "timeYear": 340,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2025-11-06": 27
     }
@@ -52,7 +52,7 @@
     "timeDay": 249,
     "timeWeek": 194,
     "timeMonth": 162,
-    "timeYear": 398,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2026-06-06": 145
     }
@@ -62,17 +62,17 @@
     "url": "https://voice.peaketechnology.com",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "95.33%",
-    "uptimeYear": "99.57%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "88.56%",
+    "uptimeWeek": "96.10%",
+    "uptimeMonth": "94.97%",
+    "uptimeYear": "99.54%",
     "time": 530,
-    "timeDay": 737,
-    "timeWeek": 613,
-    "timeMonth": 598,
-    "timeYear": 531,
+    "timeDay": 612,
+    "timeWeek": 598,
+    "timeMonth": 595,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2026-04-04": 167,
       "2026-04-05": 25,
@@ -84,7 +84,7 @@
       "2026-06-08": 280,
       "2026-06-09": 219,
       "2026-06-17": 228,
-      "2026-06-21": 10
+      "2026-06-21": 165
     }
   },
   {
@@ -92,17 +92,17 @@
     "url": "https://core1-dca.vectordata.net",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-1",
-    "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "95.10%",
-    "uptimeYear": "99.35%",
-    "time": 460,
-    "timeDay": 582,
-    "timeWeek": 512,
-    "timeMonth": 510,
-    "timeYear": 460,
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "96.20%",
+    "uptimeMonth": "94.75%",
+    "uptimeYear": "99.30%",
+    "time": 459,
+    "timeDay": 475,
+    "timeWeek": 496,
+    "timeMonth": 506,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2025-10-19": 165,
       "2026-06-01": 333,
@@ -113,7 +113,7 @@
       "2026-06-08": 275,
       "2026-06-09": 215,
       "2026-06-17": 223,
-      "2026-06-21": 5
+      "2026-06-21": 160
     }
   },
   {
@@ -121,15 +121,15 @@
     "url": "https://core3-dca.vectordata.net",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-3",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "95.22%",
-    "uptimeYear": "99.41%",
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "89.24%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "94.86%",
+    "uptimeYear": "99.36%",
     "time": 334,
-    "timeDay": 505,
-    "timeWeek": 449,
+    "timeDay": 437,
+    "timeWeek": 440,
     "timeMonth": 376,
     "timeYear": 334,
     "dailyMinutesDown": {
@@ -141,7 +141,7 @@
       "2026-06-08": 270,
       "2026-06-09": 210,
       "2026-06-17": 219,
-      "2026-06-21": 0
+      "2026-06-21": 155
     }
   },
   {
@@ -159,7 +159,7 @@
     "timeDay": 430,
     "timeWeek": 419,
     "timeMonth": 328,
-    "timeYear": 329,
+    "timeYear": 328,
     "dailyMinutesDown": {}
   },
   {
@@ -198,7 +198,7 @@
     "timeDay": 793,
     "timeWeek": 766,
     "timeMonth": 668,
-    "timeYear": 650,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2026-01-26": 28,
       "2026-06-06": 138
@@ -237,7 +237,7 @@
     "timeDay": 429,
     "timeWeek": 655,
     "timeMonth": 673,
-    "timeYear": 635,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2026-06-02": 293,
       "2026-06-04": 393,
