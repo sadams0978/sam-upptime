@@ -64,9 +64,9 @@
     "slug": "peake-voice",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "87.44%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "88.28%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "99.10%",
     "uptimeYear": "99.47%",
     "time": 547,
     "timeDay": 543,
@@ -86,7 +86,7 @@
       "2026-06-17": 228,
       "2026-06-21": 165,
       "2026-07-01": 228,
-      "2026-07-31": 181
+      "2026-07-31": 169
     }
   },
   {
@@ -95,11 +95,11 @@
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-1",
     "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "88.11%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.30%",
+    "uptime": "99.31%",
+    "uptimeDay": "88.62%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.31%",
     "time": 465,
     "timeDay": 596,
     "timeWeek": 439,
@@ -117,7 +117,7 @@
       "2026-06-17": 223,
       "2026-06-21": 160,
       "2026-07-01": 223,
-      "2026-07-31": 171
+      "2026-07-31": 164
     }
   },
   {
@@ -127,9 +127,9 @@
     "slug": "peake-voice-core-3",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "88.78%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "88.95%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.36%",
     "time": 343,
     "timeDay": 502,
@@ -147,7 +147,7 @@
       "2026-06-17": 219,
       "2026-06-21": 155,
       "2026-07-01": 218,
-      "2026-07-31": 161
+      "2026-07-31": 159
     }
   },
   {
