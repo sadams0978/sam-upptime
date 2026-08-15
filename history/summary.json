@@ -62,16 +62,16 @@
     "url": "https://voice.peaketechnology.com",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "98.64%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "99.39%",
     "time": 537,
-    "timeDay": 540,
-    "timeWeek": 590,
-    "timeMonth": 518,
+    "timeDay": 511,
+    "timeWeek": 577,
+    "timeMonth": 517,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2026-04-04": 167,
@@ -90,7 +90,7 @@
       "2026-08-05": 192,
       "2026-08-06": 187,
       "2026-08-08": 44,
-      "2026-08-15": 5
+      "2026-08-15": 14
     }
   },
   {
@@ -98,16 +98,16 @@
     "url": "https://core1-dca.vectordata.net",
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.69%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "99.24%",
     "time": 474,
-    "timeDay": 440,
-    "timeWeek": 653,
-    "timeMonth": 526,
+    "timeDay": 389,
+    "timeWeek": 614,
+    "timeMonth": 521,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2025-10-19": 165,
@@ -125,7 +125,7 @@
       "2026-08-05": 187,
       "2026-08-06": 182,
       "2026-08-08": 39,
-      "2026-08-15": 0
+      "2026-08-15": 9
     }
   },
   {
