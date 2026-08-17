@@ -293,23 +293,23 @@
     "url": "https://peaketechnology.slack.com",
     "icon": "https://peaketechnology.slack.com/favicon.ico",
     "slug": "slack",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "91.30%",
-    "uptimeWeek": "96.85%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "84.65%",
+    "uptimeWeek": "95.87%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.90%",
     "time": 282,
-    "timeDay": 373,
-    "timeWeek": 326,
-    "timeMonth": 301,
+    "timeDay": 371,
+    "timeWeek": 322,
+    "timeMonth": 300,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2026-06-06": 117,
       "2026-08-14": 53,
       "2026-08-15": 76,
       "2026-08-16": 103,
-      "2026-08-17": 85
+      "2026-08-17": 184
     }
   },
   {
