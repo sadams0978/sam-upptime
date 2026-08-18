@@ -132,11 +132,11 @@
     "icon": "https://dd-files-main.imgix.net/peake/2023/3/D8qbdJ4gMEOCCsQss-HHmA/PEAKE_Logo.png",
     "slug": "peake-voice-core-3",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.82%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.32%",
     "time": 354,
     "timeDay": 505,
     "timeWeek": 489,
@@ -293,15 +293,15 @@
     "url": "https://peaketechnology.slack.com",
     "icon": "https://peaketechnology.slack.com/favicon.ico",
     "slug": "slack",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "53.67%",
-    "uptimeWeek": "90.48%",
+    "uptimeDay": "53.63%",
+    "uptimeWeek": "90.47%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.80%",
-    "time": 278,
+    "time": 279,
     "timeDay": 346,
-    "timeWeek": 335,
+    "timeWeek": 336,
     "timeMonth": 316,
     "timeYear": 287,
     "dailyMinutesDown": {
@@ -310,7 +310,7 @@
       "2026-08-15": 76,
       "2026-08-16": 103,
       "2026-08-17": 352,
-      "2026-08-18": 375
+      "2026-08-18": 376
     }
   },
   {
