@@ -53,10 +53,6 @@ sites:
   - name: Cisco Meraki
     url: https://dashboard.meraki.com
     icon: https://dashboard.meraki.com/favicon.ico
-    
-  - name: Slack
-    url: https://peaketechnology.slack.com
-    icon: https://peaketechnology.slack.com/favicon.ico
   
   - name: Google DNS
     check: "tcp-ping"
